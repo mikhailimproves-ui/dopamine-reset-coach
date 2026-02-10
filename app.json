@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "b11a2780-5edb-49e8-bb84-4693b078e446"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.roman.dopamineresetcoach",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
